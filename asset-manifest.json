@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-motus/static/css/main.ebf51231.chunk.css",
+    "main.js": "/react-motus/static/js/main.d46efbe2.chunk.js",
+    "main.js.map": "/react-motus/static/js/main.d46efbe2.chunk.js.map",
+    "runtime-main.js": "/react-motus/static/js/runtime-main.220ff59d.js",
+    "runtime-main.js.map": "/react-motus/static/js/runtime-main.220ff59d.js.map",
+    "static/js/2.91cccc55.chunk.js": "/react-motus/static/js/2.91cccc55.chunk.js",
+    "static/js/2.91cccc55.chunk.js.map": "/react-motus/static/js/2.91cccc55.chunk.js.map",
+    "static/js/3.17240bca.chunk.js": "/react-motus/static/js/3.17240bca.chunk.js",
+    "static/js/3.17240bca.chunk.js.map": "/react-motus/static/js/3.17240bca.chunk.js.map",
+    "index.html": "/react-motus/index.html",
+    "static/css/main.ebf51231.chunk.css.map": "/react-motus/static/css/main.ebf51231.chunk.css.map",
+    "static/js/2.91cccc55.chunk.js.LICENSE.txt": "/react-motus/static/js/2.91cccc55.chunk.js.LICENSE.txt",
+    "static/media/content.css": "/react-motus/static/media/Magnifier_icon-icons.com_52024.ce9d2569.png",
+    "static/media/App.css": "/react-motus/static/media/MuseoSansCyrl_2.1f870401.otf",
+    "static/media/avatar.05b73159.jpg": "/react-motus/static/media/avatar.05b73159.jpg",
+    "static/media/klinika-limfatek4.cc30cd9b.png": "/react-motus/static/media/klinika-limfatek4.cc30cd9b.png",
+    "static/media/logo.6ce24c58.svg": "/react-motus/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.220ff59d.js",
+    "static/js/2.91cccc55.chunk.js",
+    "static/css/main.ebf51231.chunk.css",
+    "static/js/main.d46efbe2.chunk.js"
+  ]
+}
